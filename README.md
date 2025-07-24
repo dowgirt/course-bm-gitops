@@ -1,1 +1,0 @@
-# course-bm-gitops
